@@ -1,3 +1,5 @@
+<a href="/website/"> <button style="border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; background-color: #4CAF50;">ANA SAYFA</button> </a>
+
 ## Lorem İpsum
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mattis neque nibh, vel accumsan elit fermentum vitae. Donec velit orci, fringilla et tempus ut, vulputate et dui. Morbi tristique aliquet neque quis vehicula. Integer et neque non odio ultrices vulputate a eget lorem. Aenean vel sagittis justo. Pellentesque id justo venenatis, eleifend purus at, pulvinar erat. Ut consequat finibus est, et consequat nisi condimentum non. Curabitur elementum, erat eget consectetur pretium, urna quam fermentum sem, et iaculis dui tellus non diam. Suspendisse sit amet consequat lorem. Duis hendrerit nunc vitae vestibulum sodales.
